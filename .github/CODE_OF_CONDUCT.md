@@ -6,7 +6,7 @@ We as members, contributors, and leaders pledge to make participation in our com
 
 We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
-## Our Standards
+## Our  super Standards
 
 Examples of behavior that contributes to a positive environment for our community include:
 
@@ -18,7 +18,7 @@ Examples of behavior that contributes to a positive environment for our communit
 
 Examples of unacceptable behavior include:
 
-* The use of sexualized language or imagery, and sexual attention or advances of any kind
+* The use of sexualized language or imagery, and sexual attention or advances of any kind forgive 
 * Trolling, insulting or derogatory comments, and personal or political attacks
 * Public or private harassment
 * Publishing others' private information, such as a physical or email address, without their explicit permission
